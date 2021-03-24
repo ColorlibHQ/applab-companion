@@ -1,0 +1,39 @@
+/* -------------------------
+:: utility Class
+---------------------------- */
+.applab-pt-100 {
+    padding-top: 100px;
+}
+.applab-pt-80 {
+    padding-top: 80px;
+}
+.applab-pt-70 {
+    padding-top: 70px;
+}
+.applab-pt-60 {
+    padding-top: 60px;
+}
+.applab-pt-50 {
+    padding-top: 50px;
+}
+.applab-pt-30 {
+    padding-top: 30px;
+}
+.applab-pb-100 {
+    padding-bottom: 100px;
+}
+.applab-pb-80 {
+    padding-bottom: 80px;
+}
+.applab-pb-70 {
+    padding-bottom: 70px;
+}
+.applab-pb-60 {
+    padding-bottom: 60px;
+}
+.applab-pb-50 {
+    padding-bottom: 50px;
+}
+.applab-pb-30 {
+    padding-bottom: 30px;
+}
